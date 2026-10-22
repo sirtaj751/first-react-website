@@ -40,7 +40,7 @@ const products = [
     name: "USB-C Hub",
     price: 800,
     image:
-      "https://images.unsplash.com/photo-1625842268584-8f3296236761?w=500&h=500&fit=crop",
+      "https://rukminim2.flixcart.com/image/xif0q/usb-gadget/i/n/k/w-clh21-we-original-imahnjd85wd7uzxq.jpeg?w=500&h=500&fit=crop",
     description:
       "Multi-port USB-C hub with HDMI, USB 3.0, and SD card reader. Expand your laptop connectivity.",
   },
@@ -56,9 +56,9 @@ const products = [
   {
     id: 7,
     name: "Monitor Stand",
-    price: 1550,
+    price: 900,
     image:
-      "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=500&h=500&fit=crop",
+      "https://m.media-amazon.com/images/I/51A6HDha3yL.jpg?w=500&h=500&fit=crop",
     description:
       "Dual monitor stand with adjustable height and tilt. Frees up desk space and improves ergonomics.",
   },
